@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jenitha! 👋
 
-<!--
-**Jenithaevanshi/Jenithaevanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm passionate about turning data into meaningful insights using data analysis and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- Python
+- SQL
+- Power BI
+- Excel
+- Tableau
+
+## 📊 Featured Projects
+- **SQL Projects:** Queries and database analysis
+- **Python Projects:** Data cleaning and analysis
+- **Excel Projects:** Reports and dashboards
+- **Power BI Projects:** Power BI dashboards and analysis
+- **Tableau Projects:** Tableau dashboards and analysis
+
+## 🌱 Currently Learning
+Advanced SQL and Machine Learning.
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Jenithaevanshi
+- LinkedIn: https://www.linkedin.com/in/jenithaa
+
